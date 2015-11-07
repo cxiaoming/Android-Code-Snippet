@@ -44,3 +44,4 @@
   -  邮箱正则
 
 * [android工具类库](https://github.com/jingle1267/android-utils)
+* [Android常用工具类，大部分同样适用于Java。](http://www.trinea.cn/android/android-common-utils/)
