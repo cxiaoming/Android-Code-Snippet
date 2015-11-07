@@ -43,4 +43,4 @@
   -  手机号码正则
   -  邮箱正则
 
-*[android工具类库](https://github.com/jingle1267/android-utils)
+* [android工具类库](https://github.com/jingle1267/android-utils)
